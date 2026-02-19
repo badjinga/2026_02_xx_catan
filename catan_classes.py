@@ -20,3 +20,9 @@ class Board:
 
 
 board = Board(19)
+
+# I want to be able to acess to the acess the the vertexes
+
+# Whenever i draw the dice each and every tile (hexagon) that has a value 
+
+# In my oppinion the best approach will be running all the hexagons
